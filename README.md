@@ -1,8 +1,6 @@
 # Matt Jones - Makers Portfolio
-
 ## Progress tracking my learning journey at Makers Academy.
 <br>
-
 ### Week 1 & 2: The Golden Square:
 **Learning Objectives:**
 1. Learn to test-drive programs with multiple classes.
