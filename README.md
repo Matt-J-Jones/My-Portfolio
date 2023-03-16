@@ -11,7 +11,11 @@
 5. Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 
 **Example Projects**
+
 _Week 1:_
-↪[Design a Single Class Program](https://github.com/Matt-J-Jones/design-a-single-class-program)
-↪[Intermezzo - Debugging Challenges](https://github.com/Matt-J-Jones/Intermezzo)
-↪[Design a Single Method Program](https://github.com/Matt-J-Jones/golden-square-challenges)
+
+↳[Design a Single Class Program](https://github.com/Matt-J-Jones/design-a-single-class-program)
+
+↳[Intermezzo - Debugging Challenges](https://github.com/Matt-J-Jones/Intermezzo)
+
+↳[Design a Single Method Program](https://github.com/Matt-J-Jones/golden-square-challenges)
