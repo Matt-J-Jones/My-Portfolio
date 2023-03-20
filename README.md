@@ -15,11 +15,12 @@
 
 **Example Projects**<br>
 ⇨ _Week 2:_
-* [blank](about:blank)
-* [blank](about:blank)
-* [blank](about:blank)
+* [blank](about:blank)<br>
+* [blank](about:blank)<br>
+* [blank](about:blank)<br>
 
 ⇨ _Week 1:_
+* [Design a Multi Class Program](https://github.com/Matt-J-Jones/design-a-multi-class-program)<br>
 * [Design a Single Class Program](https://github.com/Matt-J-Jones/design-a-single-class-program)<br>
 * [Intermezzo - Debugging Challenges](https://github.com/Matt-J-Jones/Intermezzo)<br>
 * [Design a Single Method Program](https://github.com/Matt-J-Jones/golden-square-challenges)<br>
