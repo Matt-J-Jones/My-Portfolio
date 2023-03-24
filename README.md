@@ -4,7 +4,7 @@
 <br>
 
 [Week 1 & 2](#week-1--2-the-golden-square)<br>
-[Week 3](#week-2-databases)<br>
+[Week 3](#week-3-databases)<br>
 
 ### Week 3: Databases:
 **Learning Objectives:**
